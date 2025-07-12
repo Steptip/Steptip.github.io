@@ -1,5 +1,68 @@
-# Introduction
-This page shares configuration and tips for sofware Finicky.
-# URLs
-* Official site: https://johnste.github.io/finicky/
-* GitHub: https://github.com/johnste/finicky
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Finicky - Configuration & Tips</title>
+  <style>
+    body {
+      font-family: Arial, Helvetica, sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #f8f9fa;
+      color: #222;
+    }
+    .container {
+      max-width: 700px;
+      margin: 2rem auto;
+      background: #fff;
+      border-radius: 8px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.07);
+      padding: 2rem;
+    }
+    h1 {
+      font-size: 2rem;
+      margin-bottom: 1rem;
+      color: #2c3e50;
+    }
+    h2 {
+      font-size: 1.3rem;
+      margin-top: 2rem;
+      color: #34495e;
+    }
+    ul {
+      padding-left: 1.2rem;
+    }
+    a {
+      color: #0077cc;
+      text-decoration: none;
+      word-break: break-all;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    @media (max-width: 600px) {
+      .container {
+        padding: 1rem;
+      }
+      h1 {
+        font-size: 1.3rem;
+      }
+      h2 {
+        font-size: 1rem;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Introduction</h1>
+    <p>This page shares configuration and tips for software Finicky.</p>
+    <h2>URLs</h2>
+    <ul>
+      <li>Official site: <a href="https://johnste.github.io/finicky/" target="_blank">https://johnste.github.io/finicky/</a></li>
+      <li>GitHub: <a href="https://github.com/johnste/finicky" target="_blank">https://github.com/johnste/finicky</a></li>
+    </ul>
+  </div>
+</body>
+</html>
